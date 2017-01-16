@@ -36,7 +36,7 @@ from django.core.management.base import BaseCommand, CommandError
 from django.template.loader import get_template
 from django.template import Context
 from django.conf import settings
-from optparse import parser.add_argument
+
 import subprocess
 
 __author__ = 'Antoine Martin <antoine@openance.com>'
